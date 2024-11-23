@@ -1,0 +1,24 @@
+body {
+    color:blueviolet;
+    margin:20px
+}
+
+header {
+    border-bottom: solid 2xp white;
+    padding: 20px
+    font-size: 32px;
+    color: rgb (darkorange);
+}header
+
+
+section{
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    margin-right: 20px;
+}
+}
